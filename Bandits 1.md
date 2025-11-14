@@ -15,7 +15,7 @@ So instead of showing the file, `cat -` basically goes:
 “Oh, you want me to read… your keyboard? Sure buddy.”  
 And then it just parrots whatever you type.
 
-![hi meow](things/hi_meow)
+![hi meow](things/bandit1_hi_meow.png)
 
 ### So what do we do?
 This challenge is basically trolling you with a cursed filename.  
