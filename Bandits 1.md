@@ -27,5 +27,5 @@ Relative or absolute path, both work.
 
 
 And just like that — boom, flag revealed.
-![testing](../Pasted-image-20251114121109.png)
+![testing](things/bandit2_flag.png)
 
