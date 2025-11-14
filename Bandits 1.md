@@ -16,7 +16,7 @@ And then it just parrots whatever you type.
 ![[Pasted image 20251114115005.png]]
 ### So what do we do?
 This challenge is basically trolling you with a cursed filename.  
-The workaround? **Escape the filename by giving Linux the actual path**, so it won’t interpret `-` as an option. Extended reading: [relative vs absolute path](relative\vs\absolute\path)
+The workaround? **Escape the filename by giving Linux the actual path**, so it won’t interpret `-` as an option. Extended reading: [relative vs absolute path](relative\vs\absolute\path.md)
 
 Tell Linux, “No no, not stdin — _the file._”  
 Relative or absolute path, both work.
